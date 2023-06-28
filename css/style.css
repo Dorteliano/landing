@@ -10,28 +10,17 @@ ul {
 }
 
 
-.logo {
-margin-right: 33.3px;
 
+header li {
+    padding-right: 12px;
+}
+
+header img {
+    margin-right: 34px;
 }
 
 header {
-    /*max-width: 50%;*/
-    font-weight: bold;
-}
-
-header .col {
-    padding: 15.4px 16px ;
-}
-
-header button {
-    color: #067A46;
-    padding: 7.60px 28.70px 8.40px 29.3px;
-    border-radius: 4px;
-    font-size: 16px;
-    line-height: 24px;
-
-
+    font-weight: 600;
 }
 
 .section_1 .content {
