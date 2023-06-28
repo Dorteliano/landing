@@ -1,8 +1,13 @@
 body {
     font-family: 'Source Sans 3', sans-serif;
+    font-weight: 400;
 }
 
-
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
 
 
 .logo {
@@ -11,10 +16,27 @@ margin-right: 33.3px;
 }
 
 header {
-    width: 50%;
+    /*max-width: 50%;*/
     font-weight: bold;
 }
 
 header .col {
     padding: 15.4px 16px ;
+}
+
+header button {
+    color: #067A46;
+    padding: 7.60px 28.70px 8.40px 29.3px;
+    border-radius: 4px;
+    font-size: 16px;
+    line-height: 24px;
+
+
+}
+
+.section_1 .content {
+    font-family: Verdana, sans-serif;
+}
+
+.section_1 .container {
 }
