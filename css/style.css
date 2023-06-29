@@ -31,7 +31,14 @@ header {
 
 
 .section_1 .background {
-    background-image: image(url(images/section.jpg));
+margin-left: -205px;
+}
+
+.section_1 .content {
+
+    left: 0;
+    top: 0;
+    margin: 0 auto;
 }
 
 .section_2 {
@@ -94,6 +101,7 @@ word-wrap: break-word;
     padding: 11px 178px;
     background-color: #067A46;
     color: #FFFFFF;
+    font-family: Segoe UI sans-serif;
 }
 
 .section_3 .btn-container {
