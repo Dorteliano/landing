@@ -10,7 +10,6 @@ ul {
 }
 
 
-
 header li {
     padding-right: 12px;
 }
@@ -39,6 +38,7 @@ header {
     background-color: #F8F8F8;
     text-align: center;
 }
+
 .section_2 h2 {
     font-size: 16px;
     font-weight: 600;
@@ -50,11 +50,11 @@ header {
     font-size: 30px;
     font-weight: 400;
     margin-top: 40px;
-    margin-bottom: 30px ;
+    margin-bottom: 30px;
 }
 
 .section_2 img {
-margin-bottom: 29px;
+    margin-bottom: 29px;
 }
 
 .section_2 .content {
@@ -64,4 +64,38 @@ margin-bottom: 29px;
 .section_2 .btn {
     margin-top: 26px;
     margin-bottom: 41px;
+    padding: 11.60px 24px 12.4px 24px;
+}
+
+.section_3 .container {
+    word-wrap: break-word;
+    padding: 20px 0 20px 15px;
+}
+
+.section_3 .content {
+word-wrap: break-word;
+}
+
+.section_3 .img {
+    margin-right: 113px;
+}
+
+.section_3 a {
+    color: #067A46;
+    text-decoration: underline;
+}
+.section_3 h2 {
+    font-family: Inter sans-serif;
+    font-size: 23px;
+    font-weight: 400;
+}
+
+.section_3 .btn {
+    padding: 11px 178px;
+    background-color: #067A46;
+    color: #FFFFFF;
+}
+
+.section_3 .btn-container {
+    margin-top: 44px;
 }
