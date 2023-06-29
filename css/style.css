@@ -25,7 +25,43 @@ header {
 
 .section_1 .content {
     font-family: Verdana, sans-serif;
+    position: relative;
+    margin-top: 181px;
+    background: url("images/section.jpg");
 }
 
-.section_1 .container {
+
+.section_1 .background {
+    background-image: image(url(images/section.jpg));
+}
+
+.section_2 {
+    background-color: #F8F8F8;
+    text-align: center;
+}
+.section_2 h2 {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 13px;
+}
+
+.section_2 h1 {
+    font-family: Inter sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    margin-top: 40px;
+    margin-bottom: 30px ;
+}
+
+.section_2 img {
+margin-bottom: 29px;
+}
+
+.section_2 .content {
+    padding-right: 30px;
+}
+
+.section_2 .btn {
+    margin-top: 26px;
+    margin-bottom: 41px;
 }
