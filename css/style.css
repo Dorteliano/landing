@@ -30,12 +30,11 @@ header {
     font-family: Verdana, sans-serif;
     position: relative;
     margin-top: 181px;
-    background: url("images/section.jpg");
 }
 
 
 .section_1{
-    background-image: url("images/section.jpg");
+    background-image: url("data:images/section.jpg");
     padding: 40px;
     height: 650px;
     width: 1520px;
@@ -138,5 +137,19 @@ word-wrap: break-word;
     padding-left: 15px;
     margin-right: 30px;
     margin-top: 60px;
+}
+
+.bg-section_6 {
+    background: url(data:images/sectin_6.png);
+}
+
+.section_7 {
+    display: inline-flex;
+    padding-top: 15.4px;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-start;
+    gap: 16px;
+
 }
 
