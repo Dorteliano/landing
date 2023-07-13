@@ -13,7 +13,6 @@ ul {
     list-style: none;
 }
 
-
 header li {
     padding-right: 12px;
 }
@@ -32,7 +31,6 @@ header {
     margin-top: 181px;
 }
 
-
 .section_1 {
     background-image: url("data:images/section.jpg");
     padding: 40px;
@@ -40,7 +38,6 @@ header {
     width: 1520px;
     backface-visibility: visible;
 }
-
 
 .section_2 {
     background-color: #F8F8F8;
@@ -153,9 +150,45 @@ header {
 }
 
 .section_7 img {
- margin-right: 16px;
+    margin-right: 16px;
 }
 
 .section_7 h2 {
     margin-top: 31px;
+}
+
+footer a {
+    color: #067A46;
+}
+
+footer h3 {
+    margin-bottom: 12.4px;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+footer .block {
+    padding-right: 70px;
+}
+
+footer span {
+    color: #056835;
+}
+
+footer .social-links {
+    padding-right: 275px;
+}
+
+footer .content {
+    padding-left: 189px;
+    margin-right: 24px;
+    font-size: 14px;
+}
+
+footer .content .brand {
+    margin-right: 64px;
+}
+
+footer .content .navbar-brand {
+    font-size: 14px;
 }
